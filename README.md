@@ -105,7 +105,7 @@ Before publishing, replace the template details with your own:
 
 Add your deployed website URL here after hosting it:
 
-**Live site:** `https://your-portfolio-url.example`
+**Live site:** ``
 
 You can host a static HTML/CSS/JS portfolio with GitHub Pages or another static-site host.
 
